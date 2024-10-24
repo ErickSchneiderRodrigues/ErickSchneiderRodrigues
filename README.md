@@ -29,13 +29,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ErickSchneiderRodrigues/ErickSchneiderRodrigues/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="right">
   <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
 </div>
 
